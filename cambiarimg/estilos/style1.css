@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    box-sizing: border-box;
+}
+
+
+.left{
+    margin-left: 10%;
+}
+button{
+    
+    width: 5%;
+    height: 400px;
+    font-size: 2rem;
+    border: transparent;
+    background-color: rgba(98, 98, 116, 0.329);
+    display: inline-block;
+ 
+}
+
+#foto {
+    display: inline-block;
+    width: 80%; 
+    height: 400px;
+}
+
+.contenedor{
+    display: flex;
+    width: 40%;
+    height: 400px;
+    margin-left: 2%;
+}
